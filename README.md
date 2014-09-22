@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-I am learning how to use github
+I can now make a new branch and edit a README file
